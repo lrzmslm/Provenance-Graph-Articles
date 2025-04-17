@@ -1,2 +1,46 @@
 # Provenance-Graph-Articles
 Articles in the field of intrusion detection through provenance graphs
+Capture
+PASS Muniswamy-Reddy, Kiran-Kumar, et al. "Provenance-aware storage systems." USENIX Annual Technical Conference, General Track. 2006.
+layering Muniswamy-Reddy, Kiran-Kumar, et al. "Layering in provenance systems." Proceedings of the 2009 USENIX Annual Technical Conference (USENIX'09). USENIX Association, 2009.
+SPADE Gehani, Ashish, and Dawood Tariq. "SPADE: support for provenance auditing in distributed environments." Proceedings of the 13th International Middleware Conference. Springer-Verlag New York, Inc., 2012.
+HiFi Pohly, Devin J., et al. "Hi-Fi: collecting high-fidelity whole-system provenance." Proceedings of the 28th Annual Computer Security Applications Conference. ACM, 2012.
+BEEP Lee, Kyu Hyung, Xiangyu Zhang, and Dongyan Xu. "High Accuracy Attack Provenance via Binary-based Execution Partition." NDSS. 2013.
+LPM Bates, Adam, et al. "Trustworthy whole-system provenance for the Linux kernel." 24th USENIX Security Symposium (USENIX Security 15). 2015.
+Inspector Thalheim, Jörg, Pramod Bhatotia, and Christof Fetzer. "INSPECTOR: data provenance using intel processor trace (PT)." 2016 IEEE 36th International Conference on Distributed Computing Systems (ICDCS). IEEE, 2016.
+ProTracer Ma, Shiqing, Xiangyu Zhang, and Dongyan Xu. "Protracer: Towards Practical Provenance Tracing by Alternating Between Logging and Tainting." NDSS. 2016.
+RAIN Ji, Yang, et al. "Rain: Refinable attack investigation with on-demand inter-process information flow tracking." Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security. ACM, 2017.
+CamFlow Pasquier, Thomas, et al. "Practical whole-system provenance capture." Proceedings of the 2017 Symposium on Cloud Computing. ACM, 2017.
+Analysis (need better title)
+backtracking King, Samuel T., and Peter M. Chen. "Backtracking intrusions." ACM SIGOPS Operating Systems Review. Vol. 37. No. 5. ACM, 2003.
+StreamSpot Manzoor, Emaad, Sadegh M. Milajerdi, and Leman Akoglu. "Fast memory-efficient anomaly detection in streaming heterogeneous graphs." Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2016.
+HERCULE Pei, Kexin, et al. "Hercule: Attack story reconstruction via community discovery on correlated log graph." Proceedings of the 32Nd Annual Conference on Computer Security Applications. ACM, 2016.
+FRAPpuccino Han, Xueyuan, et al. "FRAPpuccino: Fault-detection through runtime analysis of provenance." 9th USENIX Workshop on Hot Topics in Cloud Computing (HotCloud 17). 2017.
+SLEUTH Hossain, Md Nahid, et al. "{SLEUTH}: Real-time Attack Scenario Reconstruction from {COTS} Audit Data." 26th USENIX Security Symposium (USENIX Security 17). 2017.
+MPI Ma, Shiqing, et al. "{MPI}: Multiple Perspective Attack Investigation with Semantic Aware Execution Partitioning." 26th USENIX Security Symposium (USENIX Security 17). 2017.
+ProPatrol Milajerdi, Sadegh M., et al. "ProPatrol: Attack Investigation via Extracted High-Level Tasks." International Conference on Information Systems Security. Springer, Cham, 2018.
+Winmower Hassan, Wajih Ul, et al. "Towards scalable cluster auditing through grammatical inference over provenance graphs." Network and Distributed Systems Security Symposium. 2018.
+MCI Kwon, Yonghwi, et al. "MCI: Modeling-based Causality Inference in Audit Logging for Attack Investigation." NDSS. 2018.
+HOLMES Milajerdi, Sadegh M., et al. "HOLMES: real-time APT detection through correlation of suspicious information flows." Symposium on Security and Privacy. IEEE, 2019.
+CamQuery Pasquier, Thomas, et al. "Runtime analysis of whole-system provenance." Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security. ACM, 2018.
+POIROT Milajerdi, Sadegh M., et al. "POIROT: Aligning Attack Behavior with Kernel Audit Records for Cyber Threat Hunting." Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security. ACM, 2019.
+AttackGraph Capobianco, Frank, et al. "Employing Attack Graphs for Intrusion Detection." Proceedings of the 2019 ACM New Security Paradigms Workshop. ACM, 2019.
+APTrace Gui, Jiaping, et al. "APTrace: A Responsive System for Agile Enterprise Level Causality Analysis." International Conference on Data Engineering (ICDE). 2020
+ProvDetector Wang, Qi, et al. "You are what you do: Hunting stealthy malware via data provenance analysis." Proc. of the Symposium on Network and Distributed System Security (NDSS). 2020.
+OmegaLog Hassan, Wajih Ul, et al. "Omega-Log: High-fidelity attack investigation via transparent multi-layer log analysis." NDSS, 2020.
+UNICORN Han, X, et al. "UNICORN: Runtime Provenance-Based Detector for Advanced Persistent Threats." Proceedings of the 2020 Network and Distributed System Security Symposium. 2020.
+TPG Hassan, Wajih Ul, Adam Bates, and Daniel Marino. "Tactical Provenance Analysis for Endpoint Detection and Response Systems." IEE Symposium on Security and Privacy 2020.
+MORSE Hossain, Md Nahid, Sanaz Sheikhi, and R. Sekar. "Combating Dependence Explosion in Forensic Analysis Using Alternative Tag Propagation Semantics." IEEE Symposium on Security and Privacy 2020.
+SIGL Han, Xueyuan, et al. "SIGL: Securing Software Installations Through Deep Graph Learning." USENIX SECURITY (2021).
+Summarization techniques
+LogGC Lee, Kyu Hyung, Xiangyu Zhang, and Dongyan Xu. "LogGC: garbage collecting audit log." Proceedings of the 2013 ACM SIGSAC conference on Computer & communications security. ACM, 2013.
+reduction Xu, Zhang, et al. "High fidelity data reduction for big data security dependency analyses." Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security. ACM, 2016.
+taming Bates, Adam, et al. "Taming the costs of trustworthy provenance through policy reduction." ACM Transactions on Internet Technology (TOIT) 17.4 (2017): 34.
+NodeMerge Tang, Yutao, et al. "Nodemerge: template based efficient data reduction for big-data causality analysis." Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security. ACM, 2018.
+KCAL Ma, Shiqing, et al. "Kernel-supported cost-effective audit logging for causality tracking." 2018 {USENIX} Annual Technical Conference ({USENIX}{ATC} 18). 2018.
+Query/Visualization
+InfoVis Borkin, Michelle A., et al. "Evaluation of filesystem provenance visualization tools." IEEE Transactions on Visualization and Computer Graphics 19.12 (2013): 2476-2485.
+AIQL Gao, Peng, et al. "AIQL: Enabling Efficient Attack Investigation from System Monitoring Data." 2018 {USENIX} Annual Technical Conference (USENIX ATC 18). 2018.
+SAQL Gao, Peng, et al. "{SAQL}: A Stream-based Query System for Real-Time Abnormal System Behavior Detection." 27th USENIX Security Symposium (USENIX Security 18). 2018.
+NoDoze Hassan, Wajih Ul, et al. "NoDoze: Combatting Threat Alert Fatigue with Automated Provenance Triage." NDSS. 2019.
+GrAALF Setayeshfar, Omid, et al. "GrAALF: Supporting Graphical Analysis of Audit Logs for Forensics." arXiv preprint arXiv:1909.00902 (2019). TODO UPDATE WITH FINAL VENUE
